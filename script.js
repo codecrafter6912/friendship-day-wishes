@@ -15,7 +15,7 @@ const FRIENDS_DATABASE = {
         giftTitle: "Special Mystery Parcel 🎁"
     },
     "abdul": {
-        name: "Shresth",
+        name: "Abdul",
         message: "Or abdul bomb kab phodega , Happy Friendship Day Abdul!✨",
         image: "friend-photo.jpeg", // Fixed local photo link
         giftTitle: "Abdul Special Friendship Pack 🎁"
