@@ -26,12 +26,6 @@ const FRIENDS_DATABASE = {
         image: "friend-photo.jpeg", // Fixed local photo link
         giftTitle: "VIP Friendship Gift 🎁"
     },
-    "surya":{
-        name: "Surya Prakash",
-        message: " ",
-        image: "friend-photo.jpeg", // Fixed local photo link
-        giftTitle: "Special Gift 🎁 "
-    }
 
 }
 
